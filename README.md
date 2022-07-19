@@ -1,2 +1,2 @@
 ﻿# Cronometro-simples-
-# Cronotemo--JS-puro
+# Cronometro--JS-puro
